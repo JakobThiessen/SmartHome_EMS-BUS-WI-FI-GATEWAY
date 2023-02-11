@@ -1,0 +1,90 @@
+Item;Qty;Reference(s);Value;Footprint
+;;C1;100nF;0603
+;;C2;100nF;0603
+;;C3;1u;0603
+;;C4;100n;0603
+;;C5;100nF;0603
+;;C6;4u7;0603
+;;C7;100nF;0603
+;;C8;1µF;0603
+;;C9;1µF;0603
+;;C10;1n5;0603
+;;D1;BAT54S;SOT-23
+;;D2;BAT54S;SOT-23
+;;D3;ES2D;D_SMB
+;;D4;LED;LED_D3.0mm_Clear
+;;D5;LED;LED_D3.0mm_Clear
+;;FLASH0;SPST_TACT-EVQQ2;EVQ-Q2
+;;H1;MOUNT-HOLE3.2;
+;;H2;MOUNT-HOLE3.2;
+;;H3;MOUNT-HOLE3.2;
+;;H4;MOUNT-HOLE3.2;
+;;IC1;LM393D;SO08
+;;IC2;LT1129CST5;SOT-223-3
+;;J1;SML;PhoenixContact_MC_1,5_3-G-3.5
+;;J2;PWR;PhoenixContact_MC_1,5_3-G-3.81
+;;J3;1Wire;JST_XA_B03B-XASK-1-A_1x03_P2.50mm_Vertical
+;;PROG1;Conn_01x06;Connector_PinHeader_2.54mm
+;;PWR1;green;0603
+;;Q2;BSS123;SOT-23
+;;R1;Rx;0603
+;;R2;470R;0603
+;;R3;1K;0603
+;;R4;2K;0603
+;;R5;1M5;0603
+;;R6;8K2;0603
+;;R7;470R;0603
+;;R9;10k;0603
+;;R10;10k;0603
+;;R12;1K;0603
+;;R13;4K7;0603
+;;R14;470R;0603
+;;R15;470R;0603
+;;R16;1K;0603
+;;R17;0R0;0603
+;;R18;10k;0603
+;;R19;100k;0603
+;;R20;4K7;0603
+;;R21;10k;0603
+;;RES0;SPST_TACT-EVQQ2;EVQ-Q2
+;;RV1;10k;Bourns_3296Y_Vertical
+;;U1;ESP32-WROOM-32D;ESP32-WROOM-32
+;;USER1;blue;LED_SMD_0603
+;;;;
+;;;;
+;;;;
+Collated Components:;;;;
+;;;;
+Item;Qty;Reference(s);Value;Footprint
+1;4;C1, C2, C5, C7;100nF;Capacitor_SMD
+2;1;C3;1u;Capacitor_SMD
+3;1;C4;100n;Capacitor_SMD
+4;1;C6;4u7;Capacitor_SMD
+5;2;C8, C9;1ÂµF;Capacitor_SMD
+6;1;C10;1n5;Capacitor_SMD
+7;2;D1, D2;BAT54S;Package_TO_SOT_SMD
+8;1;D3;ES2D;Diode_SMD
+9;2;D4, D5;LED;LED_THT
+10;2;FLASH0, RES0;SPST_TACT-EVQQ2;main
+11;4;H1, H2, H3, H4;MOUNT-HOLE3.2;main
+12;1;IC1;LM393D;main
+13;1;IC2;LT1129CST5;Package_TO_SOT_SMD
+14;1;J1;SML;Connector_Phoenix_MC
+15;1;J2;PWR;Connector_Phoenix_MC
+16;1;J3;1Wire;Connector_JST
+17;1;PROG1;Conn_01x06;Connector_PinHeader_2.54mm
+18;1;PWR1;green;LED_SMD
+19;1;Q2;BSS123;Package_TO_SOT_SMD
+20;1;R1;Rx;Resistor_SMD
+21;4;R2, R7, R14, R15;470R;Resistor_SMD
+22;3;R3, R12, R16;1K;Resistor_SMD
+23;1;R4;2K;Resistor_SMD
+24;1;R5;1M5;Resistor_SMD
+25;1;R6;8K2;Resistor_SMD
+26;4;R9, R10, R18, R21;10k;Resistor_SMD
+27;2;R13, R20;4K7;Resistor_SMD
+28;1;R17;0R0;Resistor_SMD
+29;1;R19;100k;Resistor_SMD
+30;1;RV1;10k;Potentiometer_THT
+31;1;U1;ESP32-WROOM-32D;RF_Module
+32;1;USER1;blue;LED_SMD

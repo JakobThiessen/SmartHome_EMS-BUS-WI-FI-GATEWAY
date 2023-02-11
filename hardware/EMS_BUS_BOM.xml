@@ -1,0 +1,1045 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<export version="E">
+  <design>
+    <source>D:\Proj\SmartHome\SmartHome_EMS-BUS-WI-FI-GATEWAY\hardware\EMS_BUS.kicad_sch</source>
+    <date>2/11/2023 11:47:25 AM</date>
+    <tool>Eeschema (6.0.8)</tool>
+    <sheet number="1" name="/" tstamps="/">
+      <title_block>
+        <title/>
+        <company/>
+        <rev/>
+        <date/>
+        <source>EMS_BUS.kicad_sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+        <comment number="5" value=""/>
+        <comment number="6" value=""/>
+        <comment number="7" value=""/>
+        <comment number="8" value=""/>
+        <comment number="9" value=""/>
+      </title_block>
+    </sheet>
+  </design>
+  <components>
+    <comp ref="C1">
+      <value>100nF</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="File: EMS_BUS.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>403db841-d60c-4f73-8e9d-47cc26129c4e</tstamps>
+    </comp>
+    <comp ref="C2">
+      <value>100nF</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="File: EMS_BUS.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>c20d3d3c-032c-48d7-ad0f-0617f931e30d</tstamps>
+    </comp>
+    <comp ref="C3">
+      <value>1u</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="File: EMS_BUS.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>f8c14ac3-6e91-484e-809b-d98cd9a669f0</tstamps>
+    </comp>
+    <comp ref="C4">
+      <value>100n</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="File: EMS_BUS.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>d2191351-de2d-4b2a-a634-f2806727f05e</tstamps>
+    </comp>
+    <comp ref="C5">
+      <value>100nF</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="File: EMS_BUS.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>c338290b-b5d3-41e8-8243-f3b107a34d1e</tstamps>
+    </comp>
+    <comp ref="C6">
+      <value>4u7</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="File: EMS_BUS.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>73714eb2-cdfc-404f-b21a-109ac6d5340a</tstamps>
+    </comp>
+    <comp ref="C7">
+      <value>100nF</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="File: EMS_BUS.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>9e75c067-ecad-4b63-bd2d-f9e69c6aa311</tstamps>
+    </comp>
+    <comp ref="C8">
+      <value>1µF</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="File: EMS_BUS.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>80ffbf36-6a2b-49d2-b37b-3045b825612e</tstamps>
+    </comp>
+    <comp ref="C9">
+      <value>1µF</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="File: EMS_BUS.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>d1420901-34ac-4adb-a4b4-7794d1060338</tstamps>
+    </comp>
+    <comp ref="C10">
+      <value>1n5</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="File: EMS_BUS.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>712ac5ce-e3ca-4812-a30d-1b392a838532</tstamps>
+    </comp>
+    <comp ref="D1">
+      <value>BAT54S</value>
+      <footprint>Package_TO_SOT_SMD:SOT-23</footprint>
+      <datasheet>https://www.diodes.com/assets/Datasheets/ds11005.pdf</datasheet>
+      <libsource lib="Diode" part="BAT54S" description="schottky barrier diode"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="File: EMS_BUS.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>6a106d6a-5ad7-49de-9d96-72e685c573d2</tstamps>
+    </comp>
+    <comp ref="D2">
+      <value>BAT54S</value>
+      <footprint>Package_TO_SOT_SMD:SOT-23</footprint>
+      <datasheet>https://www.diodes.com/assets/Datasheets/ds11005.pdf</datasheet>
+      <libsource lib="Diode" part="BAT54S" description="schottky barrier diode"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="File: EMS_BUS.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>154ae122-49e0-47f3-9da7-7a5dd04e0c39</tstamps>
+    </comp>
+    <comp ref="D3">
+      <value>ES2D</value>
+      <footprint>Diode_SMD:D_SMB</footprint>
+      <datasheet>https://www.onsemi.com/pub/Collateral/US2AA-D.PDF</datasheet>
+      <libsource lib="Diode" part="US2BA" description="100V, 1.5A, General Purpose Rectifier Diode, SMA(DO-214AC)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="File: EMS_BUS.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>f572c118-caed-4f62-bd93-611fdaf2928b</tstamps>
+    </comp>
+    <comp ref="D4">
+      <value>LED</value>
+      <footprint>LED_THT:LED_D3.0mm_Clear</footprint>
+      <libsource lib="Device" part="LED" description="Light emitting diode"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="File: EMS_BUS.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>f6466ad1-ba5f-48f1-af9c-337244e47a9d</tstamps>
+    </comp>
+    <comp ref="D5">
+      <value>LED</value>
+      <footprint>LED_THT:LED_D3.0mm_Clear</footprint>
+      <libsource lib="Device" part="LED" description="Light emitting diode"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="File: EMS_BUS.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>d211b1c6-cde7-4868-b8fe-156e065f37e8</tstamps>
+    </comp>
+    <comp ref="FLASH0">
+      <value>SPST_TACT-EVQQ2</value>
+      <footprint>main:EVQ-Q2</footprint>
+      <libsource lib="main-eagle-import" part="SPST_TACT-EVQQ2" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="File: EMS_BUS.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>4f4d0ace-8af0-4058-9c90-8c4c10fe8be3</tstamps>
+    </comp>
+    <comp ref="H1">
+      <value>MOUNT-HOLE3.2</value>
+      <footprint>main:3,2</footprint>
+      <libsource lib="main-eagle-import" part="MOUNT-HOLE3.2" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="File: EMS_BUS.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>e7ada1f4-e587-4738-8df6-bfd5dccdc377</tstamps>
+    </comp>
+    <comp ref="H2">
+      <value>MOUNT-HOLE3.2</value>
+      <footprint>main:3,2</footprint>
+      <libsource lib="main-eagle-import" part="MOUNT-HOLE3.2" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="File: EMS_BUS.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>0cfe36e0-86a3-4f9a-8ea9-13f0d43cfd0a</tstamps>
+    </comp>
+    <comp ref="H3">
+      <value>MOUNT-HOLE3.2</value>
+      <footprint>main:3,2</footprint>
+      <libsource lib="main-eagle-import" part="MOUNT-HOLE3.2" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="File: EMS_BUS.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>d08bc805-6ceb-449f-9b9f-8a11c655df8d</tstamps>
+    </comp>
+    <comp ref="H4">
+      <value>MOUNT-HOLE3.2</value>
+      <footprint>main:3,2</footprint>
+      <libsource lib="main-eagle-import" part="MOUNT-HOLE3.2" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="File: EMS_BUS.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>8b8811a9-4907-41de-8559-9e71eac5b733</tstamps>
+    </comp>
+    <comp ref="IC1">
+      <value>LM393D</value>
+      <footprint>main:SO08</footprint>
+      <libsource lib="main-eagle-import" part="LM393D" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="File: EMS_BUS.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>9244b789-af90-44e1-abf0-6c5b25a4fd82 e38dcc88-f092-4b5e-a20c-62bf63f09d49 24a4dba8-e10e-4c05-8119-0d3b5304dbe2</tstamps>
+    </comp>
+    <comp ref="IC2">
+      <value>LT1129CST5</value>
+      <footprint>Package_TO_SOT_SMD:SOT-223-3_TabPin2</footprint>
+      <datasheet>https://www.analog.com/media/en/technical-documentation/data-sheets/112935ff.pdf</datasheet>
+      <libsource lib="Regulator_Linear" part="LT1129-3.3_SOT223" description="700mA Micropower Low drop-out regulator, Fixed Output 3.3V, SOT-223"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="File: EMS_BUS.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>ea692fbd-0789-4e37-a825-134f40e35301</tstamps>
+    </comp>
+    <comp ref="J1">
+      <value>SML</value>
+      <footprint>Connector_Phoenix_MC:PhoenixContact_MC_1,5_3-G-3.5_1x03_P3.50mm_Horizontal</footprint>
+      <libsource lib="Connector" part="Screw_Terminal_01x03" description="Generic screw terminal, single row, 01x03, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="File: EMS_BUS.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>bb66f982-7337-4186-9623-9c1719b8e7f1</tstamps>
+    </comp>
+    <comp ref="J2">
+      <value>PWR</value>
+      <footprint>Connector_Phoenix_MC:PhoenixContact_MC_1,5_3-G-3.81_1x03_P3.81mm_Horizontal</footprint>
+      <libsource lib="Connector" part="Screw_Terminal_01x03" description="Generic screw terminal, single row, 01x03, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="File: EMS_BUS.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>9a7bf13e-ee80-4ab0-9d07-d25e19ce3ee0</tstamps>
+    </comp>
+    <comp ref="J3">
+      <value>1Wire</value>
+      <footprint>Connector_JST:JST_XA_B03B-XASK-1-A_1x03_P2.50mm_Vertical</footprint>
+      <libsource lib="Connector" part="Screw_Terminal_01x03" description="Generic screw terminal, single row, 01x03, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="File: EMS_BUS.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>0a63624d-1849-4f84-aa1b-b9c31c84ee15</tstamps>
+    </comp>
+    <comp ref="PROG1">
+      <value>Conn_01x06</value>
+      <footprint>Connector_PinHeader_2.54mm:PinHeader_1x06_P2.54mm_Vertical</footprint>
+      <libsource lib="Connector_Generic" part="Conn_01x06" description="Generic connector, single row, 01x06, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="File: EMS_BUS.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>edfc4afe-f893-49b3-a740-b1e144006c62</tstamps>
+    </comp>
+    <comp ref="PWR1">
+      <value>green</value>
+      <footprint>LED_SMD:LED_0603_1608Metric</footprint>
+      <libsource lib="Device" part="LED" description="Light emitting diode"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="File: EMS_BUS.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>a9eea9f3-0a0a-4b05-9a0a-4ec091b840b9</tstamps>
+    </comp>
+    <comp ref="Q2">
+      <value>BSS123</value>
+      <footprint>Package_TO_SOT_SMD:SOT-23</footprint>
+      <datasheet>http://www.diodes.com/assets/Datasheets/ds30366.pdf</datasheet>
+      <libsource lib="Transistor_FET" part="BSS123" description="0.17A Id, 100V Vds, N-Channel MOSFET, SOT-23"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="File: EMS_BUS.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>2d5c0de2-05cd-445c-942c-f537aa2e57b0</tstamps>
+    </comp>
+    <comp ref="R1">
+      <value>Rx</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="File: EMS_BUS.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>f12e4ef7-d312-470f-899e-9c64538f4e1a</tstamps>
+    </comp>
+    <comp ref="R2">
+      <value>470R</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="File: EMS_BUS.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>a0ed4cad-3ebd-4ec1-90f3-d5dd3c8c618d</tstamps>
+    </comp>
+    <comp ref="R3">
+      <value>1K</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="File: EMS_BUS.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>c6749fc3-2ee5-4317-b7be-ed80737fa801</tstamps>
+    </comp>
+    <comp ref="R4">
+      <value>2K</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="File: EMS_BUS.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>b272bdc5-2725-44c0-b528-515986c252b0</tstamps>
+    </comp>
+    <comp ref="R5">
+      <value>1M5</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="File: EMS_BUS.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>f97292b4-6f50-46c4-85f0-cc3e177355ed</tstamps>
+    </comp>
+    <comp ref="R6">
+      <value>8K2</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="File: EMS_BUS.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>52eee571-aa1d-404a-85f7-2709d5b23102</tstamps>
+    </comp>
+    <comp ref="R7">
+      <value>470R</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="File: EMS_BUS.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>ef33af93-e523-4b4f-8015-7e5fcfd7a222</tstamps>
+    </comp>
+    <comp ref="R9">
+      <value>10k</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="File: EMS_BUS.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>f6cf8f4a-be78-4d5b-8e76-575832f57710</tstamps>
+    </comp>
+    <comp ref="R10">
+      <value>10k</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="File: EMS_BUS.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>0fa52e8e-b944-41bb-b2ac-82cc1c82b49c</tstamps>
+    </comp>
+    <comp ref="R12">
+      <value>1K</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="File: EMS_BUS.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>40ad55e1-b7e4-4d77-bd8a-4b70975cbe38</tstamps>
+    </comp>
+    <comp ref="R13">
+      <value>4K7</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="File: EMS_BUS.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>23ddd4fe-3c28-475f-892c-fed2442b4fc1</tstamps>
+    </comp>
+    <comp ref="R14">
+      <value>470R</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="File: EMS_BUS.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>17f84643-be8c-405d-9c57-67a144412979</tstamps>
+    </comp>
+    <comp ref="R15">
+      <value>470R</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="File: EMS_BUS.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>0eff02e9-0d42-4351-9a11-690c779c97f5</tstamps>
+    </comp>
+    <comp ref="R16">
+      <value>1K</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="File: EMS_BUS.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>d3ef22c0-38c0-4442-b41b-20c4043db917</tstamps>
+    </comp>
+    <comp ref="R17">
+      <value>0R0</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="File: EMS_BUS.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>17c4da4e-f72f-4b96-9459-f9aa2948e180</tstamps>
+    </comp>
+    <comp ref="R18">
+      <value>10k</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="File: EMS_BUS.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>5120df15-f151-43cd-86af-a65a9b658416</tstamps>
+    </comp>
+    <comp ref="R19">
+      <value>100k</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="File: EMS_BUS.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>81207934-6d25-4d74-872d-ae2538d62cd9</tstamps>
+    </comp>
+    <comp ref="R20">
+      <value>4K7</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="File: EMS_BUS.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>d3e4f8e6-8bd8-49bb-8ce3-d500e1794e15</tstamps>
+    </comp>
+    <comp ref="R21">
+      <value>10k</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="File: EMS_BUS.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>84568544-fd07-4918-a10f-e8d47246f703</tstamps>
+    </comp>
+    <comp ref="RES0">
+      <value>SPST_TACT-EVQQ2</value>
+      <footprint>main:EVQ-Q2</footprint>
+      <libsource lib="main-eagle-import" part="SPST_TACT-EVQQ2" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="File: EMS_BUS.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>f66cf788-759d-4dfa-b7aa-940fbeef0f9b</tstamps>
+    </comp>
+    <comp ref="RV1">
+      <value>10k</value>
+      <footprint>Potentiometer_THT:Potentiometer_Bourns_3296Y_Vertical</footprint>
+      <libsource lib="Device" part="R_Potentiometer" description="Potentiometer"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="File: EMS_BUS.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>705af052-35f9-40fd-a5e8-c5e153f0b2d1</tstamps>
+    </comp>
+    <comp ref="U1">
+      <value>ESP32-WROOM-32D</value>
+      <footprint>RF_Module:ESP32-WROOM-32</footprint>
+      <datasheet>https://www.espressif.com/sites/default/files/documentation/esp32-wroom-32d_esp32-wroom-32u_datasheet_en.pdf</datasheet>
+      <libsource lib="RF_Module" part="ESP32-WROOM-32D" description="RF Module, ESP32-D0WD SoC, Wi-Fi 802.11b/g/n, Bluetooth, BLE, 32-bit, 2.7-3.6V, onboard antenna, SMD"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="File: EMS_BUS.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>28dee422-502f-480b-b4b5-f21f1bc34fcb</tstamps>
+    </comp>
+    <comp ref="USER1">
+      <value>blue</value>
+      <footprint>LED_SMD:LED_0603_1608Metric</footprint>
+      <libsource lib="Device" part="LED" description="Light emitting diode"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="File: EMS_BUS.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>6c6f8160-c151-40a9-b240-bec0213cc10d</tstamps>
+    </comp>
+  </components>
+  <libparts>
+    <libpart lib="Connector" part="Screw_Terminal_01x03">
+      <description>Generic screw terminal, single row, 01x03, script generated (kicad-library-utils/schlib/autogen/connector/)</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>TerminalBlock*:*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">Screw_Terminal_01x03</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="Pin_1" type="passive"/>
+        <pin num="2" name="Pin_2" type="passive"/>
+        <pin num="3" name="Pin_3" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Connector_Generic" part="Conn_01x06">
+      <description>Generic connector, single row, 01x06, script generated (kicad-library-utils/schlib/autogen/connector/)</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>Connector*:*_1x??_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">Conn_01x06</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="Pin_1" type="passive"/>
+        <pin num="2" name="Pin_2" type="passive"/>
+        <pin num="3" name="Pin_3" type="passive"/>
+        <pin num="4" name="Pin_4" type="passive"/>
+        <pin num="5" name="Pin_5" type="passive"/>
+        <pin num="6" name="Pin_6" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="C">
+      <description>Unpolarized capacitor</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>C_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">C</field>
+        <field name="Value">C</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="LED">
+      <description>Light emitting diode</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>LED*</fp>
+        <fp>LED_SMD:*</fp>
+        <fp>LED_THT:*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">D</field>
+        <field name="Value">LED</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="K" type="passive"/>
+        <pin num="2" name="A" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="R">
+      <description>Resistor</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>R_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">R</field>
+        <field name="Value">R</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="R_Potentiometer">
+      <description>Potentiometer</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>Potentiometer*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">RV</field>
+        <field name="Value">R_Potentiometer</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="passive"/>
+        <pin num="2" name="2" type="passive"/>
+        <pin num="3" name="3" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Diode" part="BAT54S">
+      <description>schottky barrier diode</description>
+      <docs>https://www.diodes.com/assets/Datasheets/ds11005.pdf</docs>
+      <footprints>
+        <fp>SOT?23*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">D</field>
+        <field name="Value">BAT54S</field>
+        <field name="Footprint">Package_TO_SOT_SMD:SOT-23</field>
+        <field name="Datasheet">https://www.diodes.com/assets/Datasheets/ds11005.pdf</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+        <pin num="3" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Diode" part="US2BA">
+      <description>100V, 1.5A, General Purpose Rectifier Diode, SMA(DO-214AC)</description>
+      <docs>https://www.onsemi.com/pub/Collateral/US2AA-D.PDF</docs>
+      <footprints>
+        <fp>D*SMA*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">D</field>
+        <field name="Value">US2BA</field>
+        <field name="Footprint">Diode_SMD:D_SMA</field>
+        <field name="Datasheet">https://www.onsemi.com/pub/Collateral/US2AA-D.PDF</field>
+      </fields>
+      <pins>
+        <pin num="1" name="K" type="passive"/>
+        <pin num="2" name="A" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="RF_Module" part="ESP32-WROOM-32D">
+      <description>RF Module, ESP32-D0WD SoC, Wi-Fi 802.11b/g/n, Bluetooth, BLE, 32-bit, 2.7-3.6V, onboard antenna, SMD</description>
+      <docs>https://www.espressif.com/sites/default/files/documentation/esp32-wroom-32d_esp32-wroom-32u_datasheet_en.pdf</docs>
+      <footprints>
+        <fp>ESP32?WROOM?32*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">ESP32-WROOM-32D</field>
+        <field name="Footprint">RF_Module:ESP32-WROOM-32</field>
+        <field name="Datasheet">https://www.espressif.com/sites/default/files/documentation/esp32-wroom-32d_esp32-wroom-32u_datasheet_en.pdf</field>
+      </fields>
+      <pins>
+        <pin num="1" name="GND" type="power_in"/>
+        <pin num="2" name="VDD" type="power_in"/>
+        <pin num="3" name="EN" type="input"/>
+        <pin num="4" name="SENSOR_VP" type="input"/>
+        <pin num="5" name="SENSOR_VN" type="input"/>
+        <pin num="6" name="IO34" type="input"/>
+        <pin num="7" name="IO35" type="input"/>
+        <pin num="8" name="IO32" type="bidirectional"/>
+        <pin num="9" name="IO33" type="bidirectional"/>
+        <pin num="10" name="IO25" type="bidirectional"/>
+        <pin num="11" name="IO26" type="bidirectional"/>
+        <pin num="12" name="IO27" type="bidirectional"/>
+        <pin num="13" name="IO14" type="bidirectional"/>
+        <pin num="14" name="IO12" type="bidirectional"/>
+        <pin num="15" name="GND" type="passive"/>
+        <pin num="16" name="IO13" type="bidirectional"/>
+        <pin num="17" name="SHD/SD2" type="bidirectional"/>
+        <pin num="18" name="SWP/SD3" type="bidirectional"/>
+        <pin num="19" name="SCS/CMD" type="bidirectional"/>
+        <pin num="20" name="SCK/CLK" type="bidirectional"/>
+        <pin num="21" name="SDO/SD0" type="bidirectional"/>
+        <pin num="22" name="SDI/SD1" type="bidirectional"/>
+        <pin num="23" name="IO15" type="bidirectional"/>
+        <pin num="24" name="IO2" type="bidirectional"/>
+        <pin num="25" name="IO0" type="bidirectional"/>
+        <pin num="26" name="IO4" type="bidirectional"/>
+        <pin num="27" name="IO16" type="bidirectional"/>
+        <pin num="28" name="IO17" type="bidirectional"/>
+        <pin num="29" name="IO5" type="bidirectional"/>
+        <pin num="30" name="IO18" type="bidirectional"/>
+        <pin num="31" name="IO19" type="bidirectional"/>
+        <pin num="32" name="NC" type="no_connect"/>
+        <pin num="33" name="IO21" type="bidirectional"/>
+        <pin num="34" name="RXD0/IO3" type="bidirectional"/>
+        <pin num="35" name="TXD0/IO1" type="bidirectional"/>
+        <pin num="36" name="IO22" type="bidirectional"/>
+        <pin num="37" name="IO23" type="bidirectional"/>
+        <pin num="38" name="GND" type="passive"/>
+        <pin num="39" name="GND" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Regulator_Linear" part="LT1129-3.3_SOT223">
+      <description>700mA Micropower Low drop-out regulator, Fixed Output 3.3V, SOT-223</description>
+      <docs>https://www.analog.com/media/en/technical-documentation/data-sheets/112935ff.pdf</docs>
+      <footprints>
+        <fp>SOT?223*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">LT1129-3.3_SOT223</field>
+        <field name="Footprint">Package_TO_SOT_SMD:SOT-223-3_TabPin2</field>
+        <field name="Datasheet">https://www.analog.com/media/en/technical-documentation/data-sheets/112935ff.pdf</field>
+      </fields>
+      <pins>
+        <pin num="1" name="VI" type="power_in"/>
+        <pin num="2" name="GND" type="power_in"/>
+        <pin num="3" name="VO" type="power_out"/>
+      </pins>
+    </libpart>
+    <libpart lib="Transistor_FET" part="BSS123">
+      <description>0.17A Id, 100V Vds, N-Channel MOSFET, SOT-23</description>
+      <docs>http://www.diodes.com/assets/Datasheets/ds30366.pdf</docs>
+      <footprints>
+        <fp>SOT?23*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">Q</field>
+        <field name="Value">BSS123</field>
+        <field name="Footprint">Package_TO_SOT_SMD:SOT-23</field>
+        <field name="Datasheet">http://www.diodes.com/assets/Datasheets/ds30366.pdf</field>
+      </fields>
+      <pins>
+        <pin num="1" name="G" type="input"/>
+        <pin num="2" name="S" type="passive"/>
+        <pin num="3" name="D" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="main-eagle-import" part="LM393D">
+      <fields>
+        <field name="Reference">IC</field>
+        <field name="Value">LM393D</field>
+        <field name="Footprint">main:SO08</field>
+      </fields>
+      <pins>
+        <pin num="1" name="OUT" type="output"/>
+        <pin num="2" name="-IN" type="input"/>
+        <pin num="3" name="+IN" type="input"/>
+        <pin num="4" name="V-" type="power_in"/>
+        <pin num="5" name="+IN" type="input"/>
+        <pin num="6" name="-IN" type="input"/>
+        <pin num="7" name="OUT" type="output"/>
+        <pin num="8" name="V+" type="power_in"/>
+      </pins>
+    </libpart>
+    <libpart lib="main-eagle-import" part="MOUNT-HOLE3.2">
+      <fields>
+        <field name="Reference">H</field>
+        <field name="Value">MOUNT-HOLE3.2</field>
+        <field name="Footprint">main:3,2</field>
+      </fields>
+    </libpart>
+    <libpart lib="main-eagle-import" part="SPST_TACT-EVQQ2">
+      <fields>
+        <field name="Reference">SW</field>
+        <field name="Value">SPST_TACT-EVQQ2</field>
+        <field name="Footprint">main:EVQ-Q2</field>
+      </fields>
+      <pins>
+        <pin num="A" name="P" type="passive"/>
+        <pin num="A'" name="P1" type="passive"/>
+        <pin num="B" name="S" type="passive"/>
+        <pin num="B'" name="S1" type="passive"/>
+      </pins>
+    </libpart>
+  </libparts>
+  <libraries>
+    <library logical="Connector">
+      <uri>C:\Program Files\KiCad\6.0\share\kicad\symbols\/Connector.kicad_sym</uri>
+    </library>
+    <library logical="Connector_Generic">
+      <uri>C:\Program Files\KiCad\6.0\share\kicad\symbols\/Connector_Generic.kicad_sym</uri>
+    </library>
+    <library logical="Device">
+      <uri>C:\Program Files\KiCad\6.0\share\kicad\symbols\/Device.kicad_sym</uri>
+    </library>
+    <library logical="Diode">
+      <uri>C:\Program Files\KiCad\6.0\share\kicad\symbols\/Diode.kicad_sym</uri>
+    </library>
+    <library logical="RF_Module">
+      <uri>C:\Program Files\KiCad\6.0\share\kicad\symbols\/RF_Module.kicad_sym</uri>
+    </library>
+    <library logical="Regulator_Linear">
+      <uri>C:\Program Files\KiCad\6.0\share\kicad\symbols\/Regulator_Linear.kicad_sym</uri>
+    </library>
+    <library logical="Transistor_FET">
+      <uri>C:\Program Files\KiCad\6.0\share\kicad\symbols\/Transistor_FET.kicad_sym</uri>
+    </library>
+  </libraries>
+  <nets>
+    <net code="1" name="+3.3V">
+      <node ref="C2" pin="1" pintype="passive"/>
+      <node ref="C3" pin="2" pintype="passive"/>
+      <node ref="C4" pin="2" pintype="passive"/>
+      <node ref="C6" pin="2" pintype="passive"/>
+      <node ref="C7" pin="1" pintype="passive"/>
+      <node ref="C8" pin="1" pintype="passive"/>
+      <node ref="C9" pin="1" pintype="passive"/>
+      <node ref="IC1" pin="8" pinfunction="V+" pintype="power_in"/>
+      <node ref="IC2" pin="3" pinfunction="VO" pintype="power_out"/>
+      <node ref="J3" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="PROG1" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="R10" pin="1" pintype="passive"/>
+      <node ref="R13" pin="2" pintype="passive"/>
+      <node ref="R18" pin="2" pintype="passive"/>
+      <node ref="R2" pin="1" pintype="passive"/>
+      <node ref="R20" pin="2" pintype="passive"/>
+      <node ref="R3" pin="1" pintype="passive"/>
+      <node ref="R5" pin="1" pintype="passive"/>
+      <node ref="R9" pin="1" pintype="passive"/>
+      <node ref="U1" pin="2" pinfunction="VDD" pintype="power_in"/>
+    </net>
+    <net code="2" name="+VDC">
+      <node ref="C5" pin="2" pintype="passive"/>
+      <node ref="D3" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="IC2" pin="1" pinfunction="VI" pintype="power_in"/>
+    </net>
+    <net code="3" name="/EMS+">
+      <node ref="D1" pin="3" pintype="passive"/>
+      <node ref="J1" pin="2" pinfunction="Pin_2" pintype="passive"/>
+    </net>
+    <net code="4" name="/EMS-">
+      <node ref="D2" pin="3" pintype="passive"/>
+      <node ref="J1" pin="3" pinfunction="Pin_3" pintype="passive"/>
+    </net>
+    <net code="5" name="/EMS_1Wire">
+      <node ref="J3" pin="2" pinfunction="Pin_2" pintype="passive"/>
+      <node ref="R20" pin="1" pintype="passive"/>
+      <node ref="U1" pin="30" pinfunction="IO18" pintype="bidirectional"/>
+    </net>
+    <net code="6" name="/EMS_RX">
+      <node ref="R16" pin="2" pintype="passive"/>
+      <node ref="R5" pin="2" pintype="passive"/>
+      <node ref="U1" pin="36" pinfunction="IO22" pintype="bidirectional"/>
+    </net>
+    <net code="7" name="/EMS_TX">
+      <node ref="R12" pin="2" pintype="passive"/>
+      <node ref="U1" pin="29" pinfunction="IO5" pintype="bidirectional"/>
+    </net>
+    <net code="8" name="/IO0">
+      <node ref="FLASH0" pin="A" pinfunction="P" pintype="passive"/>
+      <node ref="FLASH0" pin="A'" pinfunction="P1" pintype="passive"/>
+      <node ref="PROG1" pin="6" pinfunction="Pin_6" pintype="passive"/>
+      <node ref="R10" pin="2" pintype="passive"/>
+      <node ref="U1" pin="25" pinfunction="IO0" pintype="bidirectional"/>
+    </net>
+    <net code="9" name="/IO_02">
+      <node ref="R7" pin="1" pintype="passive"/>
+      <node ref="U1" pin="24" pinfunction="IO2" pintype="bidirectional"/>
+    </net>
+    <net code="10" name="/RST">
+      <node ref="C1" pin="1" pintype="passive"/>
+      <node ref="PROG1" pin="5" pinfunction="Pin_5" pintype="passive"/>
+      <node ref="R9" pin="2" pintype="passive"/>
+      <node ref="RES0" pin="B" pinfunction="S" pintype="passive"/>
+      <node ref="RES0" pin="B'" pinfunction="S1" pintype="passive"/>
+      <node ref="U1" pin="3" pinfunction="EN" pintype="input"/>
+    </net>
+    <net code="11" name="/RXD">
+      <node ref="PROG1" pin="2" pinfunction="Pin_2" pintype="passive"/>
+      <node ref="U1" pin="34" pinfunction="RXD0/IO3" pintype="bidirectional"/>
+    </net>
+    <net code="12" name="/TXD">
+      <node ref="PROG1" pin="3" pinfunction="Pin_3" pintype="passive"/>
+      <node ref="U1" pin="35" pinfunction="TXD0/IO1" pintype="bidirectional"/>
+    </net>
+    <net code="13" name="GND">
+      <node ref="C1" pin="2" pintype="passive"/>
+      <node ref="C10" pin="1" pintype="passive"/>
+      <node ref="C2" pin="2" pintype="passive"/>
+      <node ref="C3" pin="1" pintype="passive"/>
+      <node ref="C4" pin="1" pintype="passive"/>
+      <node ref="C5" pin="1" pintype="passive"/>
+      <node ref="C6" pin="1" pintype="passive"/>
+      <node ref="C7" pin="2" pintype="passive"/>
+      <node ref="C8" pin="2" pintype="passive"/>
+      <node ref="C9" pin="2" pintype="passive"/>
+      <node ref="D1" pin="1" pintype="passive"/>
+      <node ref="D2" pin="1" pintype="passive"/>
+      <node ref="D4" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D5" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="FLASH0" pin="B" pinfunction="S" pintype="passive"/>
+      <node ref="FLASH0" pin="B'" pinfunction="S1" pintype="passive"/>
+      <node ref="IC1" pin="4" pinfunction="V-" pintype="power_in"/>
+      <node ref="IC2" pin="2" pinfunction="GND" pintype="power_in"/>
+      <node ref="J2" pin="3" pinfunction="Pin_3" pintype="passive"/>
+      <node ref="J3" pin="3" pinfunction="Pin_3" pintype="passive"/>
+      <node ref="PROG1" pin="4" pinfunction="Pin_4" pintype="passive"/>
+      <node ref="PWR1" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="Q2" pin="2" pinfunction="S" pintype="passive"/>
+      <node ref="R19" pin="1" pintype="passive"/>
+      <node ref="R21" pin="1" pintype="passive"/>
+      <node ref="R4" pin="2" pintype="passive"/>
+      <node ref="RES0" pin="A" pinfunction="P" pintype="passive"/>
+      <node ref="RES0" pin="A'" pinfunction="P1" pintype="passive"/>
+      <node ref="RV1" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="RV1" pin="3" pinfunction="3" pintype="passive"/>
+      <node ref="U1" pin="1" pinfunction="GND" pintype="power_in"/>
+      <node ref="U1" pin="15" pinfunction="GND" pintype="passive"/>
+      <node ref="U1" pin="38" pinfunction="GND" pintype="passive"/>
+      <node ref="U1" pin="39" pinfunction="GND" pintype="passive"/>
+      <node ref="USER1" pin="1" pinfunction="K" pintype="passive"/>
+    </net>
+    <net code="14" name="Net-(C10-Pad2)">
+      <node ref="C10" pin="2" pintype="passive"/>
+      <node ref="Q2" pin="3" pinfunction="D" pintype="passive"/>
+      <node ref="R14" pin="1" pintype="passive"/>
+      <node ref="R15" pin="1" pintype="passive"/>
+    </net>
+    <net code="15" name="Net-(D1-Pad2)">
+      <node ref="D1" pin="2" pintype="passive"/>
+      <node ref="D2" pin="2" pintype="passive"/>
+      <node ref="R17" pin="2" pintype="passive"/>
+      <node ref="R6" pin="2" pintype="passive"/>
+    </net>
+    <net code="16" name="Net-(D3-Pad2)">
+      <node ref="D3" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="J2" pin="1" pinfunction="Pin_1" pintype="passive"/>
+    </net>
+    <net code="17" name="Net-(D4-Pad2)">
+      <node ref="D4" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="PWR1" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="R2" pin="2" pintype="passive"/>
+    </net>
+    <net code="18" name="Net-(D5-Pad2)">
+      <node ref="D5" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="R7" pin="2" pintype="passive"/>
+      <node ref="USER1" pin="2" pinfunction="A" pintype="passive"/>
+    </net>
+    <net code="19" name="Net-(IC1-Pad1)">
+      <node ref="IC1" pin="1" pinfunction="OUT" pintype="output"/>
+      <node ref="R1" pin="1" pintype="passive"/>
+      <node ref="R16" pin="1" pintype="passive"/>
+    </net>
+    <net code="20" name="Net-(IC1-Pad2)">
+      <node ref="IC1" pin="2" pinfunction="-IN" pintype="input"/>
+      <node ref="R3" pin="2" pintype="passive"/>
+      <node ref="RV1" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="21" name="Net-(IC1-Pad3)">
+      <node ref="IC1" pin="3" pinfunction="+IN" pintype="input"/>
+      <node ref="R1" pin="2" pintype="passive"/>
+      <node ref="R4" pin="1" pintype="passive"/>
+      <node ref="R6" pin="1" pintype="passive"/>
+    </net>
+    <net code="22" name="Net-(IC1-Pad5)">
+      <node ref="IC1" pin="5" pinfunction="+IN" pintype="input"/>
+      <node ref="R18" pin="1" pintype="passive"/>
+      <node ref="R21" pin="2" pintype="passive"/>
+    </net>
+    <net code="23" name="Net-(IC1-Pad6)">
+      <node ref="IC1" pin="6" pinfunction="-IN" pintype="input"/>
+      <node ref="R12" pin="1" pintype="passive"/>
+      <node ref="R19" pin="2" pintype="passive"/>
+    </net>
+    <net code="24" name="Net-(IC1-Pad7)">
+      <node ref="IC1" pin="7" pinfunction="OUT" pintype="output"/>
+      <node ref="Q2" pin="1" pinfunction="G" pintype="input"/>
+      <node ref="R13" pin="1" pintype="passive"/>
+    </net>
+    <net code="25" name="Net-(R14-Pad2)">
+      <node ref="R14" pin="2" pintype="passive"/>
+      <node ref="R15" pin="2" pintype="passive"/>
+      <node ref="R17" pin="1" pintype="passive"/>
+    </net>
+    <net code="26" name="unconnected-(J1-Pad1)">
+      <node ref="J1" pin="1" pinfunction="Pin_1" pintype="passive"/>
+    </net>
+    <net code="27" name="unconnected-(J2-Pad2)">
+      <node ref="J2" pin="2" pinfunction="Pin_2" pintype="passive"/>
+    </net>
+    <net code="28" name="unconnected-(U1-Pad4)">
+      <node ref="U1" pin="4" pinfunction="SENSOR_VP" pintype="input"/>
+    </net>
+    <net code="29" name="unconnected-(U1-Pad5)">
+      <node ref="U1" pin="5" pinfunction="SENSOR_VN" pintype="input"/>
+    </net>
+    <net code="30" name="unconnected-(U1-Pad6)">
+      <node ref="U1" pin="6" pinfunction="IO34" pintype="input"/>
+    </net>
+    <net code="31" name="unconnected-(U1-Pad7)">
+      <node ref="U1" pin="7" pinfunction="IO35" pintype="input"/>
+    </net>
+    <net code="32" name="unconnected-(U1-Pad8)">
+      <node ref="U1" pin="8" pinfunction="IO32" pintype="bidirectional"/>
+    </net>
+    <net code="33" name="unconnected-(U1-Pad9)">
+      <node ref="U1" pin="9" pinfunction="IO33" pintype="bidirectional"/>
+    </net>
+    <net code="34" name="unconnected-(U1-Pad10)">
+      <node ref="U1" pin="10" pinfunction="IO25" pintype="bidirectional"/>
+    </net>
+    <net code="35" name="unconnected-(U1-Pad11)">
+      <node ref="U1" pin="11" pinfunction="IO26" pintype="bidirectional"/>
+    </net>
+    <net code="36" name="unconnected-(U1-Pad12)">
+      <node ref="U1" pin="12" pinfunction="IO27" pintype="bidirectional"/>
+    </net>
+    <net code="37" name="unconnected-(U1-Pad13)">
+      <node ref="U1" pin="13" pinfunction="IO14" pintype="bidirectional"/>
+    </net>
+    <net code="38" name="unconnected-(U1-Pad14)">
+      <node ref="U1" pin="14" pinfunction="IO12" pintype="bidirectional"/>
+    </net>
+    <net code="39" name="unconnected-(U1-Pad16)">
+      <node ref="U1" pin="16" pinfunction="IO13" pintype="bidirectional"/>
+    </net>
+    <net code="40" name="unconnected-(U1-Pad17)">
+      <node ref="U1" pin="17" pinfunction="SHD/SD2" pintype="bidirectional"/>
+    </net>
+    <net code="41" name="unconnected-(U1-Pad18)">
+      <node ref="U1" pin="18" pinfunction="SWP/SD3" pintype="bidirectional"/>
+    </net>
+    <net code="42" name="unconnected-(U1-Pad19)">
+      <node ref="U1" pin="19" pinfunction="SCS/CMD" pintype="bidirectional"/>
+    </net>
+    <net code="43" name="unconnected-(U1-Pad20)">
+      <node ref="U1" pin="20" pinfunction="SCK/CLK" pintype="bidirectional"/>
+    </net>
+    <net code="44" name="unconnected-(U1-Pad21)">
+      <node ref="U1" pin="21" pinfunction="SDO/SD0" pintype="bidirectional"/>
+    </net>
+    <net code="45" name="unconnected-(U1-Pad22)">
+      <node ref="U1" pin="22" pinfunction="SDI/SD1" pintype="bidirectional"/>
+    </net>
+    <net code="46" name="unconnected-(U1-Pad23)">
+      <node ref="U1" pin="23" pinfunction="IO15" pintype="bidirectional"/>
+    </net>
+    <net code="47" name="unconnected-(U1-Pad26)">
+      <node ref="U1" pin="26" pinfunction="IO4" pintype="bidirectional"/>
+    </net>
+    <net code="48" name="unconnected-(U1-Pad27)">
+      <node ref="U1" pin="27" pinfunction="IO16" pintype="bidirectional"/>
+    </net>
+    <net code="49" name="unconnected-(U1-Pad28)">
+      <node ref="U1" pin="28" pinfunction="IO17" pintype="bidirectional"/>
+    </net>
+    <net code="50" name="unconnected-(U1-Pad31)">
+      <node ref="U1" pin="31" pinfunction="IO19" pintype="bidirectional"/>
+    </net>
+    <net code="51" name="unconnected-(U1-Pad32)">
+      <node ref="U1" pin="32" pinfunction="NC" pintype="no_connect"/>
+    </net>
+    <net code="52" name="unconnected-(U1-Pad33)">
+      <node ref="U1" pin="33" pinfunction="IO21" pintype="bidirectional"/>
+    </net>
+    <net code="53" name="unconnected-(U1-Pad37)">
+      <node ref="U1" pin="37" pinfunction="IO23" pintype="bidirectional"/>
+    </net>
+  </nets>
+</export>
